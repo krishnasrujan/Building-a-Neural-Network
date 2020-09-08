@@ -4,4 +4,4 @@ I have written this article very carefully so that a newbee can also understand.
 
 medium blog - https://medium.com/@srujan.krish97
 
-kaggle - https://www.kaggle.com/krishnasrujan/account
+kaggle - https://www.kaggle.com/krishnasrujan/building-a-neural-network-from-scratch
